@@ -1,2 +1,2 @@
 # investment website
- an investment and trading website
+ an investment website
